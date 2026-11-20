@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "notes": "Adds in-app auto-update: CRM now checks for signed updates at launch and from Settings → General → Software updates; install and restart with one click.",
+  "pub_date": "2026-11-20T02:10:17.257Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ1hUa1dIWG9Qd0ZJQVZyaXZSNE0renBNcklpa2ExTmtuZUZyRXJiZDVJL01sYjNiR2o5bG81VVg5WkdxeXhSRFJHc0dLNkhZWFdSeWxzQXJmWHFidkJFMFovaXE4OVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTM5ODc2CWZpbGU6Q1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMQpzb1JidWZjdTYvUUhra2dVNVpZWTZjVDd0ODNoQzF1V0JDVnhJZHJZVlcvS0FhU3cyTEpDelI1R055UzA5dTVQZzZLMWNid0RSZUxyaXpLTzdTdUlDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/christopherstaats/Sales_Director_Releases/main/updates/crm/aarch64-apple-darwin/CRM.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ1hUa1dIWG9Qd0tKeElFMzZoU3J6Q09NTU1iYm5CcGg0K00xdGZGa0U0OGE3ZmQ5OWlKbEY3RFhWdUpQNDNGWmVXT1ZwTkZrZGlFcTZuQ2VObWpaQS85WFZ4NDRkZlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTQwMTYyCWZpbGU6Q1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMQphUUpvMG9pUUNYUGRFdXBmOWI3Q0YzaE9yOERaalhTZGlHM2FPeWZWZllVRjdyd3hSSkVON29oYi95eHIwcXZvanZtVXVWYkZwd0x5c1ZieWNGWm1Edz09Cg==",
+      "url": "https://raw.githubusercontent.com/christopherstaats/Sales_Director_Releases/main/updates/crm/x86_64-apple-darwin/CRM.app.tar.gz"
+    }
+  }
+}
